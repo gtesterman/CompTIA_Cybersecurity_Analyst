@@ -1,7 +1,7 @@
 <h1>Common TCP Ports</h1>
 
-| Port | Service |
-| --- | --- |
+| Port | Service | Notes|
+| --- | --- | --- |
 | 20, 21 | FTP |
 | 22 | SSH |
 | 23 | Telnet |
